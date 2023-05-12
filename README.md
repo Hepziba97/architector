@@ -1,15 +1,15 @@
-# Architector
+# Architector (WIP)
 
 `Architector` is a CLI tool for initializing project folders based on your preferred 
 software architecture. It helps you get started with your application development process quickly by 
 providing a colorful UI and a list of available architecture options to choose from.
 
-## Getting Started
+## Getting Started (⚠️Not ready for use yet!!)
 
 Installation
 To install Architector, simply run:
 
-```sh
+```shell
 $ go install -g architector
 ```
 Usage
